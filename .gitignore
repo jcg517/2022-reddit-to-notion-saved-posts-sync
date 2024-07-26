@@ -1,0 +1,6 @@
+\venv
+Pipfile
+Pipfile.lock
+run.bat
+*.json
+.env
